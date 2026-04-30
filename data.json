@@ -3,7 +3,7 @@
   "_instrucciones": [
     "1. Cada serie/tomo/capitulo necesita un id unico",
     "2. Las rutas de imagenes son relativas a la raiz del repo",
-    "3. Sube las paginas a chapters/[id-capitulo]/001.jpg, 002.jpg, etc.",
+    "3. Sube las paginas a chapters/[serie]/[numero-capitulo]/",
     "4. Lista cada pagina en el array pages del capitulo"
   ],
   "series": [
@@ -12,7 +12,7 @@
       "title": "Jujutsu Kaisen",
       "author": "Gege Akutami",
       "description": "Yuji Itadori, un estudiante de preparatoria con habilidades atleticas excepcionales, se ve envuelto en el mundo de los hechiceros jujutsu despues de consumir el dedo de Sukuna, el Rey de las Maldiciones.",
-      "cover": "jjk-main.jpg",
+      "cover": "covers/jujutsu-kaisen/jjk-main.jpg",
       "tags": [
         "accion",
         "sobrenatural",
@@ -24,14 +24,30 @@
           "number": "21",
           "title": "Colonia de Tokio N.º 2",
           "description": "Yuta Okkotsu, Kinji Hakari, Panda y Kashimo se enfrentan a los desafios del juego del sacrificio dentro de la Colonia de Tokio N.º 2.",
-          "cover": "jjk-vol21.jpg",
+          "cover": "covers/jujutsu-kaisen/jjk-vol21.jpg",
           "chapters": [
             {
               "id": "jjk-vol21-ch180",
               "number": "180",
               "title": "La conexion entre Rika y Okkotsu termino",
               "date": "Coloreado por Inventario Oculto",
-              "pages": []
+              "pages": [
+                "chapters/jujutsu-kaisen/180/01.jpg",
+                "chapters/jujutsu-kaisen/180/02.jpg",
+                "chapters/jujutsu-kaisen/180/03.jpg",
+                "chapters/jujutsu-kaisen/180/04.jpg",
+                "chapters/jujutsu-kaisen/180/05.jpg",
+                "chapters/jujutsu-kaisen/180/06.jpg",
+                "chapters/jujutsu-kaisen/180/07.jpg",
+                "chapters/jujutsu-kaisen/180/08.jpg",
+                "chapters/jujutsu-kaisen/180/09.jpg",
+                "chapters/jujutsu-kaisen/180/10.jpg",
+                "chapters/jujutsu-kaisen/180/11.jpg",
+                "chapters/jujutsu-kaisen/180/12.jpg",
+                "chapters/jujutsu-kaisen/180/13.jpg",
+                "chapters/jujutsu-kaisen/180/14.jpg",
+                "chapters/jujutsu-kaisen/180/15.jpg"
+              ]
             },
             {
               "id": "jjk-vol21-ch181",
