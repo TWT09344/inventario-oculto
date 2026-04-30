@@ -12,7 +12,7 @@
       "title": "Jujutsu Kaisen",
       "author": "Gege Akutami",
       "description": "Yuji Itadori, un estudiante de preparatoria con habilidades atleticas excepcionales, se ve envuelto en el mundo de los hechiceros jujutsu despues de consumir el dedo de Sukuna, el Rey de las Maldiciones.",
-      "cover": "covers/jjk-main.jpg",
+      "cover": "jjk-main.jpg",
       "tags": [
         "accion",
         "sobrenatural",
@@ -24,7 +24,7 @@
           "number": "21",
           "title": "Colonia de Tokio N.º 2",
           "description": "Yuta Okkotsu, Kinji Hakari, Panda y Kashimo se enfrentan a los desafios del juego del sacrificio dentro de la Colonia de Tokio N.º 2.",
-          "cover": "covers/jjk-vol21.jpg",
+          "cover": "jjk-vol21.jpg",
           "chapters": [
             {
               "id": "jjk-vol21-ch180",
