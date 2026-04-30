@@ -1,0 +1,48 @@
+{
+  "_comentario": "Edita este archivo para agregar/eliminar series, tomos y capitulos",
+  "_instrucciones": [
+    "1. Cada serie/tomo/capitulo necesita un id unico",
+    "2. Las rutas de imagenes son relativas a la raiz del repo",
+    "3. Sube las paginas a chapters/[id-capitulo]/001.jpg, 002.jpg, etc.",
+    "4. Lista cada pagina en el array pages del capitulo"
+  ],
+  "series": [
+    {
+      "id": "jujutsu-kaisen",
+      "title": "Jujutsu Kaisen",
+      "author": "Gege Akutami",
+      "description": "Yuji Itadori, un estudiante de preparatoria con habilidades atleticas excepcionales, se ve envuelto en el mundo de los hechiceros jujutsu despues de consumir el dedo de Sukuna, el Rey de las Maldiciones.",
+      "cover": "covers/jjk-main.jpg",
+      "tags": [
+        "accion",
+        "sobrenatural",
+        "shounen"
+      ],
+      "volumes": [
+        {
+          "id": "jjk-vol21",
+          "number": "21",
+          "title": "Colonia de Tokio N.º 2",
+          "description": "Yuta Okkotsu, Kinji Hakari, Panda y Kashimo se enfrentan a los desafios del juego del sacrificio dentro de la Colonia de Tokio N.º 2.",
+          "cover": "covers/jjk-vol21.jpg",
+          "chapters": [
+            {
+              "id": "jjk-vol21-ch180",
+              "number": "180",
+              "title": "La conexion entre Rika y Okkotsu termino",
+              "date": "Coloreado por Inventario Oculto",
+              "pages": []
+            },
+            {
+              "id": "jjk-vol21-ch181",
+              "number": "181",
+              "title": "...Algo tan horrible",
+              "date": "Coloreado por Inventario Oculto",
+              "pages": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
