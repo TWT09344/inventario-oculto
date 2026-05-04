@@ -74,7 +74,84 @@
                 "chapters/jujutsu-kaisen/181/17.jpeg",
                 "chapters/jujutsu-kaisen/181/18.jpeg",
                 "chapters/jujutsu-kaisen/181/19.jpeg"
-                                                
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mha",
+      "title": "My hero academia",
+      "author": "Kōhei Horikoshi",
+      "description": "",
+      "cover": "covers/chainsaw-man/csm-main.jpg",
+      "tags": [
+        "accion",
+        "sobrenatural",
+        "shounen",
+        "horror"
+      ],
+      "volumes": [
+        {
+          "id": "csm-vol1",
+          "number": "1",
+          "title": "Perro y motosierra",
+          "description": "Denji conoce a Makima y se une a la Division 4 de Caza de Demonios de Seguridad Publica, iniciando su nueva vida como hibrido motosierra.",
+          "cover": "covers/chainsaw-man/csm-vol1.jpg",
+          "chapters": [
+            {
+              "id": "csm-vol1-ch1",
+              "number": "1",
+              "title": "Perro y motosierra",
+              "date": "Capitulo de estreno",
+              "pages": [
+                "chapters/chainsaw-man/1/01.jpg",
+                "chapters/chainsaw-man/1/02.jpg",
+                "chapters/chainsaw-man/1/03.jpg",
+                "chapters/chainsaw-man/1/04.jpg",
+                "chapters/chainsaw-man/1/05.jpg",
+                "chapters/chainsaw-man/1/06.jpg",
+                "chapters/chainsaw-man/1/07.jpg",
+                "chapters/chainsaw-man/1/08.jpg",
+                "chapters/chainsaw-man/1/09.jpg",
+                "chapters/chainsaw-man/1/10.jpg",
+                "chapters/chainsaw-man/1/11.jpg",
+                "chapters/chainsaw-man/1/12.jpg",
+                "chapters/chainsaw-man/1/13.jpg",
+                "chapters/chainsaw-man/1/14.jpg",
+                "chapters/chainsaw-man/1/15.jpg",
+                "chapters/chainsaw-man/1/16.jpg",
+                "chapters/chainsaw-man/1/17.jpg",
+                "chapters/chainsaw-man/1/18.jpg",
+                "chapters/chainsaw-man/1/19.jpg",
+                "chapters/chainsaw-man/1/20.jpg"
+              ]
+            },
+            {
+              "id": "csm-vol1-ch2",
+              "number": "2",
+              "title": "El lugar al que Makima me llevo",
+              "date": "",
+              "pages": [
+                "chapters/chainsaw-man/2/01.jpg",
+                "chapters/chainsaw-man/2/02.jpg",
+                "chapters/chainsaw-man/2/03.jpg",
+                "chapters/chainsaw-man/2/04.jpg",
+                "chapters/chainsaw-man/2/05.jpg",
+                "chapters/chainsaw-man/2/06.jpg",
+                "chapters/chainsaw-man/2/07.jpg",
+                "chapters/chainsaw-man/2/08.jpg",
+                "chapters/chainsaw-man/2/09.jpg",
+                "chapters/chainsaw-man/2/10.jpg",
+                "chapters/chainsaw-man/2/11.jpg",
+                "chapters/chainsaw-man/2/12.jpg",
+                "chapters/chainsaw-man/2/13.jpg",
+                "chapters/chainsaw-man/2/14.jpg",
+                "chapters/chainsaw-man/2/15.jpg",
+                "chapters/chainsaw-man/2/16.jpg",
+                "chapters/chainsaw-man/2/17.jpg",
+                "chapters/chainsaw-man/2/18.jpg"
               ]
             }
           ]
