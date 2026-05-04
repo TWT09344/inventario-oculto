@@ -96,8 +96,8 @@
         {
           "id": "mha-vol1",
           "number": "1",
-          "title": "Perro y motosierra",
-          "description": "Denji conoce a Makima y se une a la Division 4 de Caza de Demonios de Seguridad Publica, iniciando su nueva vida como hibrido motosierra.",
+          "title": "Despues del manga",
+          "description": "",
           "cover": "covers/MHA/mhavol1.jpeg",
           "chapters": [
             {
@@ -115,10 +115,10 @@
                 "chapters/mha/01/07.jpeg",
                 "chapters/mha/01/08.jpeg",
                 "chapters/mha/01/09.jpeg",
-                "chapters/chainsaw-man/1/10.jpg",
-                "chapters/chainsaw-man/1/11.jpg",
-                "chapters/chainsaw-man/1/12.jpg",
-                "chapters/chainsaw-man/1/13.jpg",
+                "chapters/mha/01/10.jpeg",
+                "chapters/mha/01/11.jpeg",
+                "chapters/mha/01/12.jpeg",
+                "chapters/mha/01/13.jpeg",
                 "chapters/chainsaw-man/1/14.jpg",
                 "chapters/chainsaw-man/1/15.jpg",
                 "chapters/chainsaw-man/1/16.jpg",
